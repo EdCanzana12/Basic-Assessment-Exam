@@ -60,3 +60,5 @@ php artisan route:clear
 
 php artisan serve
 ```
+This will start the backend at http://localhost:8000
+
